@@ -117,7 +117,7 @@ return ConversationHandler.END
 
 
 def main():
-token = os.environ.get("BOT_TOKEN")
+token = "8674985483:AAEeNTIgeZHs-3SYeDmaAeKZoSg8-UXm2VM"
 
 if not token:
 print("ОШИБКА: переменная BOT_TOKEN не найдена.")
